@@ -31,9 +31,9 @@ Eg: Divided by zero (Arithmetic Exception).
 
 #3.13 Give three examples of an interrupt.
 > Three examples of an interrupt:
-  1.Interrupt caused when a higher priority job occurs.
-  2.Interrupt caused by hardware failure.
-  3. A process may interrupt another process when working together (Inter Process Communication).
+1.Interrupt caused when a higher priority job occurs.
+2.Interrupt caused by hardware failure.
+3.A process may interrupt another process when working together (Inter Process Communication).
 
 #3.14 What is the difference between a mode switch and a process switch?
 > Process switch is a state in which processor switches from a process to another process.
